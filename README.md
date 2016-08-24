@@ -5,6 +5,6 @@ Practice for basic AJAX
 - XHR Request
 - Request Asynchronous
 
-#environment
+#Environment
 - Using Cloud9
 - https://nina-ajax-project-ninasleepyhead.c9users.io/index.html
